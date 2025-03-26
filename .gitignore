@@ -1,0 +1,14 @@
+# すべて無視
+*
+
+# .gitignore自身を無視しない
+!.gitignore
+
+# aum.pyを無視しない
+!aum.py
+
+# collected_scripts.jsonを無視しない
+!collected_scripts.json
+
+# your_projectフォルダを無視しない
+!your_project/
